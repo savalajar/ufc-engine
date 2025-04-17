@@ -1,1 +1,3 @@
-# ufc-engine
+Who is the greatest fighter of all time? This is a common question among mixed martial arts fans, and I wanted to provide some answers to this question. I first utilized a web scraper that scrapes ufcstats.com. This would provide me with every result in UFC history, starting with the very first fight between Gordon Gordeau and Taylor Wily, and the most recent of Sean O'Malley and Merab Dvalishvili. Then I took that data to implement an Elo engine ranking system in Python. It mimics how most chess Elo engines work, following the common Elo equations.
+
+Jon Jones holds the highest peak Elo, reflecting a consistently dominant career against top-tier competition. The list blends legendary retired champions (GSP, Silva) with current elite fighters (Makhachev, Edwards), showing the effectiveness of Elo in comparing across generations.
